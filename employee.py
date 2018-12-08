@@ -1,6 +1,6 @@
 from peewee import *
 try:
-    db = PostgresqlDatabase('payrollSystem', user='postgres', password="123456", host="127.0.0.1")
+    db = PostgresqlDatabase('d5b2qm4dpmt453', user='qwcrlfygilfxwz', password="14dcc470668a7efbc8e0f055482d862f145d9e372c81f9bec77b6dd0b9701917", host="ec2-54-235-156-60.compute-1.amazonaws.com")
     print("Successfully connected!")
 except:
     print("Didn't connect!")
